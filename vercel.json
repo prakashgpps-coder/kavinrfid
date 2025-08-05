@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/rfidattendance/getdata",
+      "dest": "/api/getdata.js"
+    }
+  ]
+}
